@@ -139,7 +139,42 @@ End of initial required section.
 ## Risk Assessment
 
 ### Assumptions and Validations
-<!-- List and validate key assumptions across different aspects.  Help the user by offering suggestions for validation. -->
+<!-- List and validate key assumptions across different aspects.  Help the user by offering suggestions for validation. 
+
+For validation, use the following guidelines to help the user get improved output here:
+
+For EACH assumption listed on the page, include a few ideas for tests that are well-suited to the assumption's category (desirability, feasibility, etc).
+
+Tests that can help with DESIRABILITY assumptions:
+-----
+* JTBD Analysis (preferred)
+* 404 / Fake door tests (preferred)
+* Customer interviews (preferred)
+* Surveys (preferred)
+* Analytics (preferred)
+* User testing
+* Focus Groups
+* Inquiry
+* Prototyping
+* A/B Tests
+* Customer Journey Mapping
+* Card Sorting
+-----
+
+Tests that can help with FEASIBILITY assumptions:
+-----
+* Spikes (preferred)
+* Prototyping (preferred)
+* Proof of Concepts (POCs) (preferred)
+* MVP
+* Alpha / Beta
+-----
+
+Please go further than just listing the names of the tests. Carefully think through ways to make the recommended tests as easy, inexpensive, and scrappy as possible. Include as many details as possible about how to conduct each test.
+
+For each assumption, provide a few ideas for tests that are well-suited to the assumption's category (desirability, feasibility, etc).
+
+-->
 
 #### Market Viability
 - Assumption: [State assumption]
