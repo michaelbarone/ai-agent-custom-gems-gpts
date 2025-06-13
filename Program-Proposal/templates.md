@@ -8,15 +8,19 @@
 COMPLETE THIS SECTION FIRST
 This section provides the essential context needed for stakeholders to quickly understand your program.
 Fill this out before proceeding with the detailed sections below.
+Both questions can be asked and answered in a single response.
+Check the users initial request as they may have provided some of this information.
 -->
 
 ### Program Name
 <!-- Provide a short name to identify this program by -->
 
 ### Elevator Pitch
-<!-- Provide a 1-2 paragraph pitch explaining the why & what behind this program -->
+<!-- Provide a 1-2 paragraphs concisely pitching the why & what behind this program -->
 
-## Rest of Template
+<!--
+End of initial required section.
+-->
 
 ### Primary Motivation
 <!-- Select ONE of the following by removing the [ ] and adding [X] -->
@@ -93,7 +97,7 @@ Fill this out before proceeding with the detailed sections below.
 ## Problem Statement
 
 ### Current Problem
-<!-- Provide 1-2 paragraphs describing the problem you are seeking to solve -->
+<!-- Provide 1-4 paragraphs describing the problem you are seeking to solve -->
 
 ## Objectives and Success Metrics
 
