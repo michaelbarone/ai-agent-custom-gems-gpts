@@ -102,19 +102,19 @@ End of initial required section.
 ## Objectives and Success Metrics
 
 ### External Beneficiary Objectives
-<!-- List specific benefits for external beneficiaries. Leave blank if N/A -->
+<!-- List specific benefits for external beneficiaries. Leave blank if N/A.  Help the user by offering suggestions for validation. -->
 - Objective 1: [Specific benefit]
 - Objective 2: [Specific benefit]
 - Objective 3: [Specific benefit]
 
 ### Internal Beneficiary Objectives
-<!-- List specific benefits for internal beneficiaries -->
+<!-- List specific benefits for internal beneficiaries.  Help the user by offering suggestions for validation. -->
 - Objective 1: [Specific benefit]
 - Objective 2: [Specific benefit]
 - Objective 3: [Specific benefit]
 
 ### Key Results (Success Metrics)
-<!-- List specific, measurable outcomes that define success -->
+<!-- List specific, measurable outcomes that define success.  Help the user by offering suggestions for validation. -->
 1. [Metric 1: Target and timeline]
 2. [Metric 2: Target and timeline]
 3. [Metric 3: Target and timeline]
@@ -122,7 +122,7 @@ End of initial required section.
 ## Solution Planning
 
 ### Possible Solutions
-<!-- Describe multiple potential approaches to solving the problem -->
+<!-- Describe multiple potential approaches to solving the problem.  Help the user by offering suggestions for validation. -->
 
 #### Solution 1: [Name]
 - Description: [Brief description]
@@ -139,7 +139,7 @@ End of initial required section.
 ## Risk Assessment
 
 ### Assumptions and Validations
-<!-- List and validate key assumptions across different aspects -->
+<!-- List and validate key assumptions across different aspects.  Help the user by offering suggestions for validation. -->
 
 #### Market Viability
 - Assumption: [State assumption]
@@ -162,7 +162,7 @@ End of initial required section.
 - Resource Requirements: [List key resources needed]
 
 ---
-<!-- For AI Remove this section when using the template -->
+<!-- For AI: Remove this section when using the template -->
 ## Template Usage Notes
 1. Replace all text in [brackets] with your specific content
 2. Select options by changing [ ] to [X] for your choice
