@@ -14,10 +14,7 @@ Fill this out before proceeding with the detailed sections below.
 <!-- Provide a short name to identify this program by -->
 
 ### Elevator Pitch
-<!-- Provide a 1-2 sentence pitch explaining the why & what behind this program -->
-```
-[Your compelling pitch here that explains the program's purpose and value proposition]
-```
+<!-- Provide a 1-2 paragraph pitch explaining the why & what behind this program -->
 
 ## Rest of Template
 
@@ -97,11 +94,6 @@ Fill this out before proceeding with the detailed sections below.
 
 ### Current Problem
 <!-- Provide 1-2 paragraphs describing the problem you are seeking to solve -->
-```
-[Detailed problem description here]
-
-[Include context, pain points, and current limitations]
-```
 
 ## Objectives and Success Metrics
 
