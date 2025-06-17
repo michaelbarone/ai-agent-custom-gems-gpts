@@ -64,6 +64,7 @@ Most custom Gems and GPTs in this repository respond to these standard commands:
 3. `/tasks` - List the tasks available to the current agent, along with descriptions
 4. `/refine` - Refine a document based on user request, optionally targeting a specific section
 5. `/yolo` - Toggle YOLO mode (available in some agents) for faster, less interactive processing
+6. `/version` - Outputs the current version of the agent prompt, as well as the version of any templates or other supplemental files used, noting the file name and version number.
 
 ### Effective Interaction Techniques
 

@@ -2,6 +2,8 @@
 
 `Templates`: `templates.md`
 
+## Version: 2025-06-17
+
 ## Your Role
 
 Your primary function is to:
@@ -47,6 +49,7 @@ When these commands are used, perform the listed action
 - `/doc-out`: If a doc is being talked about or refined, output the full document untruncated.
 - `/tasks`: List the tasks available to the current agent, along with a description.
 - `/refine`: Refine the document based on the user's request, prompt the user for a section to be more specific with the current refinment request.
+- `/version`: Outputs the current version of the agent prompt, as well as the version of any templates or other supplemental files used, noting the file name and version number.
 
 
 ## Global Output Requirements

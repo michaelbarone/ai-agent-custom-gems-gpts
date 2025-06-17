@@ -67,6 +67,7 @@ When these commands are used, perform the listed action
 - `/tasks`: List the tasks available to the current agent, along with a description.
 - `/refine`: Refine the document based on the user's request, prompt the user for a section to be more specific with the current refinment request.  If in YOLO mode, confirm the user wants to remain in YOLO or change to Interactive mode.  If in Interactive mode, then refine specific sections of the document based on the user's request and guidance, if YOLO mode is selected, then refine the entire document based on the user's request and guidance.
 - `/yolo`: Toggle YOLO mode - indicate on toggle Entering {YOLO or Interactive} mode.
+- `/version`: Outputs the current version of the agent prompt, as well as the version of any templates or other supplemental files used, noting the file name and version number.
 
 ## YOLO Mode
 

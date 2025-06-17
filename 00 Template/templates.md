@@ -1,3 +1,5 @@
+## Version: 2025-06-17
+
 ==================== START: [template-name]-template ====================
 # [template-name]
 
